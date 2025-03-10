@@ -17,8 +17,8 @@ with PC-PBT GF, ensuring high durability and resistance to extreme conditions.
 Engine ECU
 
 ![photo_2025-03-10_17-02-57](https://github.com/user-attachments/assets/2ccb93b8-cb3c-45ba-a21d-40ee418de517)
-![photo_2025-03-10_17-02-17](https://github.com/user-attachments/assets/897107f6-bcef-4582-939f-f49b6ad9df47)
-![photo_2025-03-10_17-02-44](https://github.com/user-attachments/assets/5b310d5e-6441-499d-8b08-41e9e4d643e1)\\
+![photo_2025-03-10_17-02-17](https://github.com/user-attachments/assets/2945201e-16fd-497a-a7f9-51046073280b)
+![photo_2025-03-10_17-02-44](https://github.com/user-attachments/assets/0da5bdb3-7834-4603-8817-865709978ef9)
 ![photo_2024-11-05_19-21-17](https://github.com/user-attachments/assets/d4e60c7d-f89d-4fef-ad51-d4a23d225c5e)
 ![photo_2025-03-10_17-20-40](https://github.com/user-attachments/assets/d73aa845-e63a-44e9-8576-f547f31430fc)
 
@@ -45,6 +45,8 @@ Additionally
 ![photo_2024-10-24_19-00-43](https://github.com/user-attachments/assets/8e804c75-22bc-44f9-8464-88b196f8fc7c)
 ![photo_2025-03-10_17-04-03](https://github.com/user-attachments/assets/3c95ec35-8405-46bb-8be1-249fc7148cf5)
 ![photo_2025-03-10_17-20-34](https://github.com/user-attachments/assets/fc2812f2-6d83-42bd-a7e3-9227348abd1c)
+
+
 
 
 
